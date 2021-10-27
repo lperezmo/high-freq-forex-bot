@@ -29,7 +29,6 @@ class LuisMainCurrencyExchangeProgram(QCAlgorithm):
     Authors
     ----------
     Luis Perez Morales
-    Shyla Rozanne Davison
     
     """
 
